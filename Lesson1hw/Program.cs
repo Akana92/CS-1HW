@@ -126,6 +126,8 @@ namespace Lesson1hw
         {
             Console.SetCursorPosition(x, y);
             Console.WriteLine($"{desc} {name} {surname} из {town}");
+
+
         }
     }
 }
